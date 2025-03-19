@@ -2,7 +2,7 @@
 
 This is where all the website code is stored.
 
-If I get round to rewriting / developing a aligner for the Northumberland then I might put it here as well.
+If I get round to rewriting / developing an aligner for the Northumberland then I might put it here as well.
 
 # Repositories
 
